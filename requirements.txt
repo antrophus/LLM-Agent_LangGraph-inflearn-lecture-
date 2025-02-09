@@ -1,0 +1,30 @@
+# LangChain 관련
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-openai
+langchain-text-splitters
+langchain-chroma
+langgraph
+
+# 임베딩 모델 관련
+sentence-transformers
+torch
+transformers
+
+# PDF 및 문서 처리
+pypdf
+py-zerox
+unstructured[md]
+nltk
+markdown
+html2text
+beautifulsoup4
+
+# 환경 설정
+python-dotenv
+nest-asyncio
+
+# 기타 유틸리티
+typing-extensions
+ipython 

@@ -1,0 +1,5 @@
+.env
+.ipynb_checkpoints
+income_tax_collection_old/
+income_tax_collection/
+documents/
